@@ -1,1 +1,1 @@
-print("Hello World dari Egi")
+print("Hello World dari Egi Wira")

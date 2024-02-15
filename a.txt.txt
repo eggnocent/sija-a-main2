@@ -1,0 +1,5 @@
+Nama  : Egi Wiratama
+Absen : 22
+Kelas : 12 SIJA A
+TTL   : Sleman, 15 April 2006
+is_bisa_mberot : false
